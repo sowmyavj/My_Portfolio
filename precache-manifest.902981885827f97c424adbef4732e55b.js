@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/My_Portfolio/static/media/Sowmya_Vijayakumar_resume.aad023cc.pdf"
   },
   {
-    "revision": "b36762e6bd4645b1700bdfffd58895b1",
+    "revision": "92595f0c034232b5e1072fd01b674cec",
     "url": "/My_Portfolio/index.html"
   }
 ];
