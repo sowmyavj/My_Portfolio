@@ -2,7 +2,6 @@
   "name": "myportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sowmyavj.github.io/My_Portfolio/",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
@@ -17,7 +16,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "npm run build && mv build/index.html build/200.html && surge build"
   },
   "eslintConfig": {
     "extends": "react-app"
