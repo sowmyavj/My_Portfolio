@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a87ae0601e8b9388f124",
+    "revision": "e0a69ed6e705260b04fe",
     "url": "/My_Portfolio/static/css/main.5acd9560.chunk.css"
   },
   {
-    "revision": "a87ae0601e8b9388f124",
-    "url": "/My_Portfolio/static/js/main.cea15b4a.chunk.js"
+    "revision": "e0a69ed6e705260b04fe",
+    "url": "/My_Portfolio/static/js/main.d3c52629.chunk.js"
   },
   {
     "revision": "578ce61cda3234350f52",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/My_Portfolio/static/media/Sowmya_Vijayakumar_resume.aad023cc.pdf"
   },
   {
-    "revision": "89c0c05ac0b8fc5235264dddc67cbbf9",
+    "revision": "b36762e6bd4645b1700bdfffd58895b1",
     "url": "/My_Portfolio/index.html"
   }
 ];
