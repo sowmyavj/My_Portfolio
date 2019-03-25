@@ -8,7 +8,7 @@ import NavBar from './NavBar';
 class App extends Component {
   render() {
     return (
-      <Router basename={process.env.PUBLIC_URL}>
+      <Router>
         <div>
           <NavBar />
           <Route name="home" exact path="/" component={HomePage} />
