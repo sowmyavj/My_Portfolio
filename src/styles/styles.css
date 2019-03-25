@@ -1,0 +1,65 @@
+body {
+    font-family: 'Merriweather', sans-serif;
+    background-color: #f3f9fb;
+    color: #226597;
+}
+
+.float-left {
+    float:left;
+}
+.float-right {
+    float:right;
+}
+footer {
+    display: block;
+    width: 100%;
+    height: 50px;
+    color: white;
+  }
+.profileImage {
+    width:300px;
+    height:300px;
+}
+.homePage {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+.homePage p {
+    color: #87c0cd;
+}
+
+#horizontal-list li{
+    padding: 15px;
+     font-size: 20px;
+}
+li {
+    display: inline;
+}
+a{
+    font-size: 20px;
+    color: #87c0cd;
+    padding: 20px;
+}
+.header {
+    padding: 10px;
+}
+.homePage{
+    margin-bottom: 0px;
+    margin-top: 40px;
+}
+.homePage h2{
+    font-family: 'Sacramento';
+    font-size: 5em;
+}
+.logo {
+    width:80px;
+    height:80px;
+    padding: 10px;
+}
+.contact {
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin-bottom: 0px;
+}
